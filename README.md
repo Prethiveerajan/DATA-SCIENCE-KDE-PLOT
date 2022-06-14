@@ -26,6 +26,7 @@ print(label)
 #KDE Plot
 
 sns.kdeplot(x="degree_p", data = df,hue='salary')
+```
 
 ##  ouput:
 ![01](https://user-images.githubusercontent.com/94233064/173488244-49684006-2da5-41e0-98ce-17fc1bd90044.png)
